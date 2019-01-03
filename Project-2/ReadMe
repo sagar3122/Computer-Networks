@@ -1,0 +1,5 @@
+Wireshark Lab: HTTP (Academic)											August 2018
+•	Captured network packets using Wireshark.
+•	Explored HTTP message formats and basic operations of HTTP protocol.
+•	Used the packets within the traces to answer the Wireshark Lab: HTTP v6.1 of the book Computer Networking by Kurose and Ross.
+
